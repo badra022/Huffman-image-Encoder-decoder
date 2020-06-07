@@ -1,0 +1,2 @@
+# Huffman-Encoding
+Huffman encoding is a common compression algorithm that reduces the data size to allow saving space when storing the data or transmitting data over the network efficiently. It also guarantees complete restor- ing of the original data, hence it is classified as a lossless compression algorithm. The concept of compression is applied on different kind of data, for example images might be compressed using JPG algorithm (lossy) or PNG algorithm (lossless).
