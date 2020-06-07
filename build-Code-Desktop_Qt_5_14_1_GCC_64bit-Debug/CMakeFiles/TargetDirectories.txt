@@ -1,0 +1,4 @@
+/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/Code.dir
+/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles/Code_autogen.dir
