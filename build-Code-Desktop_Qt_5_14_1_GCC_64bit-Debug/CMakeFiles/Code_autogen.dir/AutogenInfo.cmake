@@ -7,8 +7,8 @@ set(AM_CMAKE_CURRENT_SOURCE_DIR "/home/badra069/Desktop/Projects and Assignments
 set(AM_CMAKE_CURRENT_BINARY_DIR "/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/")
 set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
 set(AM_BUILD_DIR "/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/Code_autogen")
-set(AM_SOURCES "/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/huffman.cpp;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/main.cpp;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/mainwindow.cpp;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/priority_queue.cpp")
-set(AM_HEADERS "/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/helpers.hpp;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/mainwindow.h;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/priority_queue.hpp")
+set(AM_SOURCES "/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/main.cpp;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/mainwindow.cpp;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/priority_queue.cpp")
+set(AM_HEADERS "/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/helpers.hpp;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/huffman.hpp;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/mainwindow.h;/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/Code/priority_queue.hpp")
 # Qt environment
 set(AM_QT_VERSION_MAJOR "5")
 set(AM_QT_VERSION_MINOR "14")

@@ -113,8 +113,11 @@ CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gc
 CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
 
 CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/Huffman\ Encoding/Huffman-Encoding/Code/helpers.hpp
+CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/Huffman\ Encoding/Huffman-Encoding/Code/huffman.hpp
 CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/Huffman\ Encoding/Huffman-Encoding/Code/main.cpp
 CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/Huffman\ Encoding/Huffman-Encoding/Code/mainwindow.h
+CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/Huffman\ Encoding/Huffman-Encoding/Code/priority_queue.cpp
+CMakeFiles/Code.dir/main.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/Huffman\ Encoding/Huffman-Encoding/Code/priority_queue.hpp
 CMakeFiles/Code.dir/main.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qalgorithms.h
 CMakeFiles/Code.dir/main.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qarraydata.h
 CMakeFiles/Code.dir/main.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtCore/qatomic.h
@@ -356,4 +359,7 @@ CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidg
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: /opt/Qt5.14.1/5.14.1/gcc_64/include/QtWidgets/qwidget.h
 CMakeFiles/Code.dir/mainwindow.cpp.o: Code_autogen/include/./ui_mainwindow.h
+
+CMakeFiles/Code.dir/priority_queue.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/Huffman\ Encoding/Huffman-Encoding/Code/priority_queue.cpp
+CMakeFiles/Code.dir/priority_queue.cpp.o: /home/badra069/Desktop/Projects\ and\ Assignments/Huffman\ Encoding/Huffman-Encoding/Code/priority_queue.hpp
 

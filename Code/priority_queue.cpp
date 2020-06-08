@@ -18,9 +18,9 @@
 template< typename T >
 void pQueue<T>::traverseHeap(void(*pf)(T value))
 {
-    for(int i = data.begin() ; i != data.end() ; i++)
+    for(auto i : data)
     {
-        pf(data[i]);
+        pf(i);
     }
 }
 
@@ -105,4 +105,10 @@ size_t pQueue < T >::parentIdx(size_t child)
         return (child - 1) / 2;
     else
         return (child - 2) / 2;
+}
+
+template< typename T >
+T pQueue < T >::top(void)
+{
+    return data[0];
 }

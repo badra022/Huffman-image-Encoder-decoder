@@ -29,6 +29,7 @@ public:
     size_t size() const;
     void insert(T value);
     T extract();
+    T top(void);
 private:
     void siftUp( size_t child );
     void siftDown( size_t parent);

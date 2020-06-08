@@ -35,7 +35,7 @@ if(ANDROID)
     helpers.hpp
     priority_queue.cpp
     priority_queue.hpp
-    huffman.cpp
+    huffman.hpp
   )
 else()
   add_executable(Code
@@ -46,7 +46,7 @@ else()
     helpers.hpp
     priority_queue.cpp
     priority_queue.hpp
-    huffman.cpp
+    huffman.hpp
   )
 endif()
 

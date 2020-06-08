@@ -91,6 +91,20 @@ int writeFrequencyTable(const char *filePath , map< uint8_t , int >* table)
       return 1;
 }
 
+int readFrequencyTable(const char *filePath , map< uint8_t , int >* table)
+{
+
+    uint8_t pixel;
+    int frq;
+    std::ifstream file(filePath);
+    while(file)
+    {
+        file >> pixel >> frq;
+        (*table)[pixel] = frq;
+    }
+    return 1;
+}
+
 }
 
 

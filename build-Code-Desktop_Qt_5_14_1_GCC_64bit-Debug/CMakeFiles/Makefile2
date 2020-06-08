@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = "/home/badra069/Desktop/Projects and Assignments/Huffman Enco
 CMakeFiles/Code.dir/all: CMakeFiles/Code_autogen.dir/all
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/depend
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=1,2,3,4,5,6 "Built target Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=1,2,3,4,5 "Built target Code"
 .PHONY : CMakeFiles/Code.dir/all
 
 # Include target in all.
@@ -76,7 +76,7 @@ all: CMakeFiles/Code.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Code.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" 7
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Code.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Code.dir/rule
@@ -103,7 +103,7 @@ clean: CMakeFiles/Code.dir/clean
 CMakeFiles/Code_autogen.dir/all:
 	$(MAKE) -f CMakeFiles/Code_autogen.dir/build.make CMakeFiles/Code_autogen.dir/depend
 	$(MAKE) -f CMakeFiles/Code_autogen.dir/build.make CMakeFiles/Code_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=7 "Built target Code_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/badra069/Desktop/Projects and Assignments/Huffman Encoding/Huffman-Encoding/build-Code-Desktop_Qt_5_14_1_GCC_64bit-Debug/CMakeFiles" --progress-num=6 "Built target Code_autogen"
 .PHONY : CMakeFiles/Code_autogen.dir/all
 
 # Build rule for subdir invocation for target.

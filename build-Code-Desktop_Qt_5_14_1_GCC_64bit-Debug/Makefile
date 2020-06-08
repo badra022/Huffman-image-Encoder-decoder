@@ -163,33 +163,6 @@ Code_autogen/mocs_compilation.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.s
 .PHONY : Code_autogen/mocs_compilation.cpp.s
 
-huffman.o: huffman.cpp.o
-
-.PHONY : huffman.o
-
-# target to build an object file
-huffman.cpp.o:
-	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/huffman.cpp.o
-.PHONY : huffman.cpp.o
-
-huffman.i: huffman.cpp.i
-
-.PHONY : huffman.i
-
-# target to preprocess a source file
-huffman.cpp.i:
-	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/huffman.cpp.i
-.PHONY : huffman.cpp.i
-
-huffman.s: huffman.cpp.s
-
-.PHONY : huffman.s
-
-# target to generate assembly for a file
-huffman.cpp.s:
-	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/huffman.cpp.s
-.PHONY : huffman.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -284,9 +257,6 @@ help:
 	@echo "... Code_autogen/mocs_compilation.o"
 	@echo "... Code_autogen/mocs_compilation.i"
 	@echo "... Code_autogen/mocs_compilation.s"
-	@echo "... huffman.o"
-	@echo "... huffman.i"
-	@echo "... huffman.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

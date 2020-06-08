@@ -1,17 +1,15 @@
-#include "huffman.cpp"
+#include "huffman.hpp"
 
 int main(int argc, char ** argv)
 {
-    if( argc != 3 )
+    if( argc != 5 )
         {
             std::cout << "Invalid usage!" << std::endl;
             return 1;
         }
-    map< uint8_t , int >* frequencyTable;
 
-    frequencyTable = help::getFrequencyTable(argv[1]); /* ../data/NORMAL2-IM-1427-0001.pgm */
-//    help::printFrequencyTable(frequencyTable);
-    help::writeFrequencyTable(argv[2] , frequencyTable);
+    /* imagepath , encodedpath , frequencyTablepath */
+    encodeImage(argv[1],argv[2],argv[3] , argv[4]);
 
 
 //    QApplication a(argc, argv);
