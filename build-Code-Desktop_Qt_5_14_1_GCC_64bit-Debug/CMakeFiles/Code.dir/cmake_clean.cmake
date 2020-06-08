@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/main.cpp.o"
   "CMakeFiles/Code.dir/mainwindow.cpp.o"
   "CMakeFiles/Code.dir/priority_queue.cpp.o"
+  "CMakeFiles/Code.dir/queue.cpp.o"
   "CMakeFiles/Code.dir/Code_autogen/mocs_compilation.cpp.o"
   "Code.pdb"
   "Code"

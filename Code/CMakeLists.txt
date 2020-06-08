@@ -36,6 +36,8 @@ if(ANDROID)
     priority_queue.cpp
     priority_queue.hpp
     huffman.hpp
+    queue.cpp
+    queue.hpp
   )
 else()
   add_executable(Code
@@ -47,6 +49,8 @@ else()
     priority_queue.cpp
     priority_queue.hpp
     huffman.hpp
+    queue.cpp
+    queue.hpp
   )
 endif()
 
